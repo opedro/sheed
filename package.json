@@ -1,0 +1,23 @@
+{
+  "name": "sheed",
+  "version": "1.0.0",
+  "description": "ded simple sheet",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opedro/sheed.git"
+  },
+  "author": "opedro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opedro/sheed/issues"
+  },
+  "homepage": "https://github.com/opedro/sheed#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "fs": "0.0.1-security"
+  }
+}
